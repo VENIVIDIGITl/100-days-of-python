@@ -1,4 +1,4 @@
-This repository is a fork from [appbrewery/100-days-of-python](https://github.com/appbrewery/100-days-of-python) and I will be adding the projects of each day to this repository.
+This repository is a fork from [appbrewery/100-days-of-python](https://github.com/appbrewery/100-days-of-python) and I will be adding the projects of each day to this repository as I complete them. Below you can find the forked resources of the course, and the structure of the course up to day #61.
 
 # 100 Days of Python
 This is the course resources for the Official [100 Days of Python Course](https://100daysofpython.dev)
